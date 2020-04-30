@@ -55,14 +55,14 @@ footer {
     margin-left: 570px;
     border: none;
 }
-.benefits{
+.benefits {
     background-color: #f0efef;
     height: 200px;
 }
 .container {
     float: left;
     width : 60% ;
-    margin-left: 70px;
+    margin-left: 70px;   
 }
 .title2 {
     color: #033048;
@@ -83,28 +83,31 @@ footer {
     margin-left: 50px;
     font-size: 13px;
 }
-.a{
+.my_li {
+    list-style: circle;
+}
+.mydiv{
     background-image: url("testimonial_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 180px ; 
     padding : 5% 8% ;
 }
-.aa {
+.text {
     color: white;
     font-style: oblique ;
     font-weight: lighter;
     font-size: 18px;
     text-align: center;
 }
-.ab {
+.speaker {
     color: white;
     font-style: italic ;
     font-size: 18px; 
     font-weight: 600;
     text-align: center;
 }
-.b{
+.mybutton{
     background-color: #f9e42e;
     padding: 2%;
 }
@@ -150,7 +153,6 @@ footer {
     text-align: center;
     padding: 2%;
 }
-border : 1px solid red ; 
 
 
 
