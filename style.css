@@ -1,0 +1,162 @@
+
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    color: #000;
+    font-size: 12px;
+    line-height: 1.4;
+    font-family: Helvetica, Arial, sans-serif;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+header {
+    background-image: url("header_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px ;
+
+
+}
+
+footer {
+
+}
+
+.title {
+    color: white;
+    font-weight: 1200;
+    font-size: 24px;
+    padding: 2%;
+    margin-left: 70px;
+    font-size: 24px;
+
+}
+.subtitle {
+    color: white;
+    font-weight: 600 ;
+    font-size: 24px;
+    text-align: center;
+    padding: 5%;
+}
+.btnget {
+    font-weight: 1200;
+    font-size: 14px;
+    border-radius: 5px; 
+    padding : 1% 4% ;
+    color: #033048;
+    background-color: #f9e42e ;
+    margin-left: 570px;
+    border: none;
+}
+.benefits{
+    background-color: #f0efef;
+    height: 200px;
+}
+.container {
+    float: left;
+    width : 60% ;
+    margin-left: 70px;
+}
+.title2 {
+    color: #033048;
+    padding-top : 3% ;
+    padding-bottom: 1% ;
+    font-weight: 600;
+    font-size: 20px;   
+}
+.style {
+    color:#606161 ; 
+    font-size: 13px;
+    padding-bottom: 2% ;
+
+
+}
+.list  {
+    color:#606161 ; 
+    margin-left: 50px;
+    font-size: 13px;
+}
+.a{
+    background-image: url("testimonial_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 180px ; 
+    padding : 5% 8% ;
+}
+.aa {
+    color: white;
+    font-style: oblique ;
+    font-weight: lighter;
+    font-size: 18px;
+    text-align: center;
+}
+.ab {
+    color: white;
+    font-style: italic ;
+    font-size: 18px; 
+    font-weight: 600;
+    text-align: center;
+}
+.b{
+    background-color: #f9e42e;
+    padding: 2%;
+}
+.btnsign{
+    color : white ; 
+    background-color: #033048;
+    border: none;
+    text-align: center;
+    padding : 1% 4% ;
+    font-weight: 1200;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-left: 570px;
+
+}
+.myfooter {
+   background-color:  #121212 ;
+}
+
+.relaxr {
+    color: #f9e42e ;
+    text-align: center;
+    padding : 5% ; 
+    font-weight: 1200;
+    font-size: 24px;
+}
+.img {
+    clear: both;
+    height : 100px ; 
+}
+.images {
+     padding : 2% ; 
+     margin-left: 570px;
+}
+.facebook {
+    padding-left: 10%;
+}
+
+.copyright {
+    color: white;
+    font-size: 9px ;
+    font-weight: 600px ;
+    text-align: center;
+    padding: 2%;
+}
+border : 1px solid red ; 
+
+
+
+
+
+
+
+
+
